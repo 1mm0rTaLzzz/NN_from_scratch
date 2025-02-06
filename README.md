@@ -9,7 +9,7 @@
 
 ### 1. Функция активации: Сигмоида
 Формула сигмоиды:
-![Формула](https://latex.codecogs.com/png.latex?\text{sigmoid}(x)=\frac{1}{1+e^{-x}})
+![Формула](https://latex.codecogs.com/png.latex?\bg_white\text{sigmoid}(x)=\frac{1}{1+e^{-x}})
 
 
 Сигмоида преобразует входные значения в диапазон (0,1), что делает её полезной для задач классификации.
